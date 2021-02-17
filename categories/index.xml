@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on GenCloth Website</title>
-    <link>http://localhost:5500/categories/</link>
+    <link>https://gencloth.com/gc_site_2020_public/categories/</link>
     <description>Recent content in Categories on GenCloth Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:5500/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gencloth.com/gc_site_2020_public/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>code</title>
-      <link>http://localhost:5500/categories/code/</link>
+      <link>https://gencloth.com/gc_site_2020_public/categories/code/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:5500/categories/code/</guid>
+      <guid>https://gencloth.com/gc_site_2020_public/categories/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>draping</title>
-      <link>http://localhost:5500/categories/draping/</link>
+      <link>https://gencloth.com/gc_site_2020_public/categories/draping/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:5500/categories/draping/</guid>
+      <guid>https://gencloth.com/gc_site_2020_public/categories/draping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>research</title>
-      <link>http://localhost:5500/categories/research/</link>
+      <link>https://gencloth.com/gc_site_2020_public/categories/research/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:5500/categories/research/</guid>
+      <guid>https://gencloth.com/gc_site_2020_public/categories/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>textile</title>
-      <link>http://localhost:5500/categories/textile/</link>
+      <link>https://gencloth.com/gc_site_2020_public/categories/textile/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:5500/categories/textile/</guid>
+      <guid>https://gencloth.com/gc_site_2020_public/categories/textile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>parametric</title>
-      <link>http://localhost:5500/categories/parametric/</link>
+      <link>https://gencloth.com/gc_site_2020_public/categories/parametric/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:5500/categories/parametric/</guid>
+      <guid>https://gencloth.com/gc_site_2020_public/categories/parametric/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>http://localhost:5500/categories/syntax/</link>
+      <link>https://gencloth.com/gc_site_2020_public/categories/syntax/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:5500/categories/syntax/</guid>
+      <guid>https://gencloth.com/gc_site_2020_public/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://localhost:5500/categories/themes/</link>
+      <link>https://gencloth.com/gc_site_2020_public/categories/themes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:5500/categories/themes/</guid>
+      <guid>https://gencloth.com/gc_site_2020_public/categories/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>generative</title>
-      <link>http://localhost:5500/categories/generative/</link>
+      <link>https://gencloth.com/gc_site_2020_public/categories/generative/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:5500/categories/generative/</guid>
+      <guid>https://gencloth.com/gc_site_2020_public/categories/generative/</guid>
       <description></description>
     </item>
     
