@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>research on GenCloth Website</title>
-    <link>https://gencloth.com/gc_site_2020_public/tags/research/</link>
+    <link>https://gencloth.com/tags/research/</link>
     <description>Recent content in research on GenCloth Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gencloth.com/gc_site_2020_public/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gencloth.com/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Developments</title>
-      <link>https://gencloth.com/gc_site_2020_public/post/developments/</link>
+      <link>https://gencloth.com/post/developments/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gencloth.com/gc_site_2020_public/post/developments/</guid>
+      <guid>https://gencloth.com/post/developments/</guid>
       <description>&lt;p&gt;Developments of generative fashion design, algorithmic &amp;amp; parametric fashion design.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://gencloth.com/gc_site_2020_public/post/research/</link>
+      <link>https://gencloth.com/post/research/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gencloth.com/gc_site_2020_public/post/research/</guid>
+      <guid>https://gencloth.com/post/research/</guid>
       <description>&lt;p&gt;Research, resources &amp;amp; events for the knowledge sharing of generative fashion design, algorithmic &amp;amp; parametric fashion design.&lt;/p&gt;</description>
     </item>
     

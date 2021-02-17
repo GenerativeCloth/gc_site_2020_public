@@ -2,125 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GenCloth Website</title>
-    <link>https://gencloth.com/gc_site_2020_public/</link>
+    <link>https://gencloth.com/</link>
     <description>Recent content on GenCloth Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gencloth.com/gc_site_2020_public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gencloth.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://gencloth.com/gc_site_2020_public/archives/</link>
+      <link>https://gencloth.com/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gencloth.com/gc_site_2020_public/archives/</guid>
+      <guid>https://gencloth.com/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developments</title>
-      <link>https://gencloth.com/gc_site_2020_public/post/developments/</link>
+      <link>https://gencloth.com/post/developments/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gencloth.com/gc_site_2020_public/post/developments/</guid>
+      <guid>https://gencloth.com/post/developments/</guid>
       <description>&lt;p&gt;Developments of generative fashion design, algorithmic &amp;amp; parametric fashion design.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://gencloth.com/gc_site_2020_public/post/markdown-syntax/</link>
+      <link>https://gencloth.com/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gencloth.com/gc_site_2020_public/post/markdown-syntax/</guid>
+      <guid>https://gencloth.com/post/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://gencloth.com/gc_site_2020_public/post/research/</link>
+      <link>https://gencloth.com/post/research/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gencloth.com/gc_site_2020_public/post/research/</guid>
+      <guid>https://gencloth.com/post/research/</guid>
       <description>&lt;p&gt;Research, resources &amp;amp; events for the knowledge sharing of generative fashion design, algorithmic &amp;amp; parametric fashion design.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Virual Draping</title>
-      <link>https://gencloth.com/gc_site_2020_public/post/headingcodeexamples/</link>
+      <link>https://gencloth.com/post/headingcodeexamples/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gencloth.com/gc_site_2020_public/post/headingcodeexamples/</guid>
+      <guid>https://gencloth.com/post/headingcodeexamples/</guid>
       <description>&lt;p&gt;Virtual fashion draping allows for the transfer of the fashion design technique and artistry of textile draping to be done virtually.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Virual Draping</title>
-      <link>https://gencloth.com/gc_site_2020_public/post/virtualdraping/</link>
+      <link>https://gencloth.com/post/virtualdraping/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gencloth.com/gc_site_2020_public/post/virtualdraping/</guid>
+      <guid>https://gencloth.com/post/virtualdraping/</guid>
       <description>&lt;p&gt;Virtual fashion draping allows for the transfer of the fashion design technique and artistry of textile draping to be done virtually.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Parametric Fashion Blocks/Slopers Database</title>
-      <link>https://gencloth.com/gc_site_2020_public/post/parametricblocksslopers/</link>
+      <link>https://gencloth.com/post/parametricblocksslopers/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gencloth.com/gc_site_2020_public/post/parametricblocksslopers/</guid>
+      <guid>https://gencloth.com/post/parametricblocksslopers/</guid>
       <description>&lt;p&gt;Parametric Fashion Blocks/Slopers are sets of master parametric patterns with variable sizing values used to make more detailed patterns.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Generative Fashion Design Tools</title>
-      <link>https://gencloth.com/gc_site_2020_public/post/generativetools/</link>
+      <link>https://gencloth.com/post/generativetools/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gencloth.com/gc_site_2020_public/post/generativetools/</guid>
+      <guid>https://gencloth.com/post/generativetools/</guid>
       <description>Generative fashion design tools use transformative algorithms to include data in the design stage optimizing digital fashion design for multiple objectives simultaneously.</description>
     </item>
     
     <item>
       <title>Parametric Design Pattern Database</title>
-      <link>https://gencloth.com/gc_site_2020_public/post/parametricdesign/</link>
+      <link>https://gencloth.com/post/parametricdesign/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gencloth.com/gc_site_2020_public/post/parametricdesign/</guid>
+      <guid>https://gencloth.com/post/parametricdesign/</guid>
       <description>&lt;p&gt;Parametric fashion patterns are created using variable values set for design attributes such as silhouette, appliques, necklines, in addition to sizing.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Generative Garment Design for Circularity</title>
-      <link>https://gencloth.com/gc_site_2020_public/post/generativecircularity/</link>
+      <link>https://gencloth.com/post/generativecircularity/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gencloth.com/gc_site_2020_public/post/generativecircularity/</guid>
+      <guid>https://gencloth.com/post/generativecircularity/</guid>
       <description>Generative garment design for circularity utilizes generative algorithms to include lifecycle, material use, and circularity data at the garment design phase, shifting towards a more environmentally conscious fashion industry and radically increasing the adoption of circular design.</description>
     </item>
     
     <item>
       <title>Generative Textile Design Tools</title>
-      <link>https://gencloth.com/gc_site_2020_public/post/generativetextiledesign/</link>
+      <link>https://gencloth.com/post/generativetextiledesign/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gencloth.com/gc_site_2020_public/post/generativetextiledesign/</guid>
+      <guid>https://gencloth.com/post/generativetextiledesign/</guid>
       <description>Generative textile design tools use transformative algorithms to include data in the design stage optimizing digital textile design for multiple objectives simultaneously.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://gencloth.com/gc_site_2020_public/about/</link>
+      <link>https://gencloth.com/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gencloth.com/gc_site_2020_public/about/</guid>
+      <guid>https://gencloth.com/about/</guid>
       <description>GenCloth aims to empower design teams with computational tools to aid in fashion and textile design.</description>
     </item>
     
     <item>
       <title>Advocacy</title>
-      <link>https://gencloth.com/gc_site_2020_public/advocacy/</link>
+      <link>https://gencloth.com/advocacy/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gencloth.com/gc_site_2020_public/advocacy/</guid>
+      <guid>https://gencloth.com/advocacy/</guid>
       <description>GenCloth intends to aid in the advocacy and achievement of six of the United Nations’s Sustainable Development Goals for 2030.</description>
     </item>
     
