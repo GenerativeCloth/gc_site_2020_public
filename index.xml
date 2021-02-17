@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GenCloth Website</title>
+    <link>http://localhost:5500/</link>
+    <description>Recent content on GenCloth Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:5500/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:5500/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:5500/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developments</title>
+      <link>http://localhost:5500/post/developments/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:5500/post/developments/</guid>
+      <description>&lt;p&gt;Developments of generative fashion design, algorithmic &amp;amp; parametric fashion design.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:5500/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:5500/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:5500/post/research/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:5500/post/research/</guid>
+      <description>&lt;p&gt;Research, resources &amp;amp; events for the knowledge sharing of generative fashion design, algorithmic &amp;amp; parametric fashion design.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Virual Draping</title>
+      <link>http://localhost:5500/post/headingcodeexamples/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:5500/post/headingcodeexamples/</guid>
+      <description>&lt;p&gt;Virtual fashion draping allows for the transfer of the fashion design technique and artistry of textile draping to be done virtually.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Virual Draping</title>
+      <link>http://localhost:5500/post/virtualdraping/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:5500/post/virtualdraping/</guid>
+      <description>&lt;p&gt;Virtual fashion draping allows for the transfer of the fashion design technique and artistry of textile draping to be done virtually.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Parametric Fashion Blocks/Slopers Database</title>
+      <link>http://localhost:5500/post/parametricblocksslopers/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:5500/post/parametricblocksslopers/</guid>
+      <description>&lt;p&gt;Parametric Fashion Blocks/Slopers are sets of master parametric patterns with variable sizing values used to make more detailed patterns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Generative Fashion Design Tools</title>
+      <link>http://localhost:5500/post/generativetools/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:5500/post/generativetools/</guid>
+      <description>Generative fashion design tools use transformative algorithms to include data in the design stage optimizing digital fashion design for multiple objectives simultaneously.</description>
+    </item>
+    
+    <item>
+      <title>Parametric Design Pattern Database</title>
+      <link>http://localhost:5500/post/parametricdesign/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:5500/post/parametricdesign/</guid>
+      <description>&lt;p&gt;Parametric fashion patterns are created using variable values set for design attributes such as silhouette, appliques, necklines, in addition to sizing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Generative Garment Design for Circularity</title>
+      <link>http://localhost:5500/post/generativecircularity/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:5500/post/generativecircularity/</guid>
+      <description>Generative garment design for circularity utilizes generative algorithms to include lifecycle, material use, and circularity data at the garment design phase, shifting towards a more environmentally conscious fashion industry and radically increasing the adoption of circular design.</description>
+    </item>
+    
+    <item>
+      <title>Generative Textile Design Tools</title>
+      <link>http://localhost:5500/post/generativetextiledesign/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:5500/post/generativetextiledesign/</guid>
+      <description>Generative textile design tools use transformative algorithms to include data in the design stage optimizing digital textile design for multiple objectives simultaneously.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:5500/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:5500/about/</guid>
+      <description>GenCloth aims to empower design teams with computational tools to aid in fashion and textile design.</description>
+    </item>
+    
+    <item>
+      <title>Advocacy</title>
+      <link>http://localhost:5500/advocacy/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:5500/advocacy/</guid>
+      <description>GenCloth intends to aid in the advocacy and achievement of six of the United Nations’s Sustainable Development Goals for 2030.</description>
+    </item>
+    
+  </channel>
+</rss>
